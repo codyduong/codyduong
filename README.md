@@ -1,4 +1,9 @@
-### Hi there 👋
+
+# Cody Duong
+### Self-taught developer learning whatever technologies I decide is cool
+An ever-expanding list of technologies/languages I "know", in order of learning:
+
+LUA, LUAU, Java, Python, HTML, CSS, JS, SASS, TypeScript
 
 <!--
 **codyduong/codyduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
