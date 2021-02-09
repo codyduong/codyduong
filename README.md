@@ -27,7 +27,7 @@ This is where I am building and making things. Enjoy your stay.
 ![Kotlin](https://img.shields.io/badge/Kotlin-lightgrey?style=flat-square&logo=Kotlin)
 ![GDScript](https://img.shields.io/badge/GDScript-lightgrey?style=flat-square&logo=Godot%20Engine)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codyduong)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
