@@ -3,7 +3,7 @@
 ### Self-taught developer learning whatever technologies I decide is cool
 This is where I am building and making things. Enjoy your stay.
 
-### Tools/Technologies
+### Languages
 ![Learned](https://img.shields.io/badge/Learned-green?style=flat-square&)
 [![LUA](https://img.shields.io/badge/LUA-lightgrey?style=flat-square&logo=lua)](https://github.com/search?q=user%3Acodyduong+language%3Alua&type=code)
 [![LUAU](https://img.shields.io/badge/LUAU-lightgrey?style=flat-square&logo=lua)](https://roblox.github.io/luau/)
