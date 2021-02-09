@@ -5,23 +5,20 @@ This is where I am building and making things. Enjoy your stay.
 
 ### Tools/Technologies
 ![Learned](https://img.shields.io/badge/Learned-green?style=flat-square&)
-![LUA](https://img.shields.io/badge/LUA-lightgrey?style=flat-square&logo=lua)
-![LUAU](https://img.shields.io/badge/LUAU-lightgrey?style=flat-square&logo=lua)
-![Java](https://img.shields.io/badge/Java-lightgrey?logo=Java)
-![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-lightgrey?style=flat-square&logo=sass)
-![Jekyll](https://img.shields.io/badge/Jekyll-lightgrey?style=flat-square&logo=Jekyll)
-![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=flat-square&logo=TypeScript)
+[![LUA](https://img.shields.io/badge/LUA-lightgrey?style=flat-square&logo=lua)](https://github.com/search?q=user%3Acodyduong+language%3Alua&type=code)
+[![LUAU](https://img.shields.io/badge/LUAU-lightgrey?style=flat-square&logo=lua)](https://github.com/search?q=user%3Acodyduong+language%3Alua&type=code)
+[![Java](https://img.shields.io/badge/Java-lightgrey?logo=Java)](https://github.com/search?q=user%3Acodyduong+language%3Ajava&type=code)
+[![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)](https://github.com/search?q=user%3Acodyduong+language%3Apython&type=code)
+[![Jekyll](https://img.shields.io/badge/Jekyll-lightgrey?style=flat-square&logo=Jekyll)](https://github.com/codyduong/aNc-pyRequest)
+[![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript)](https://github.com/search?q=user%3Acodyduong+language%3Ajavascript&type=code)
+[![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=flat-square&logo=TypeScript)](https://github.com/search?q=user%3Acodyduong+language%3Atypescript&type=Code)
 
 ![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
 ![Node](https://img.shields.io/badge/Node.js-lightgrey?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-lightgrey?style=flat-square&logo=React)
 ![Three.js](https://img.shields.io/badge/Three.js-lightgrey?style=flat-square&logo=Three.js)
 ![react-three-fiber](https://img.shields.io/badge/react--three--fiber-lightgrey?style=flat-square&logo=Three.js)
-![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)
+[![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
@@ -32,6 +29,10 @@ This is where I am building and making things. Enjoy your stay.
 
 
 <!--
+![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-lightgrey?style=flat-square&logo=sass)
+
 https://michaelcurrin.github.io/badge-generator/#/generic
 style=flat-square&
 
