@@ -12,6 +12,7 @@ This is where I am building and making things. Enjoy your stay.
 ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-lightgrey?style=flat-square&logo=sass)
+![Jekyll](https://img.shields.io/badge/Jekyll-lightgrey?style=flat-square&logo=Jekyll)
 ![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=flat-square&logo=TypeScript)
 
