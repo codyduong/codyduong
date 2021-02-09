@@ -5,6 +5,10 @@ An ever-expanding list of technologies/languages I "know", in order of learning:
 
 LUA, LUAU, Java, Python, HTML, Liquid, CSS, JS, SASS, TypeScript
 
+Now learning:
+* C, C++
+* React, Three.js, react-three-fiber (r3f)
+
 <!--
 **codyduong/codyduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
