@@ -9,6 +9,7 @@ This is where I am building and making things. Enjoy your stay.
 [![LUAU](https://img.shields.io/badge/LUAU-lightgrey?style=flat-square&logo=lua)](https://roblox.github.io/luau/)
 [![Java](https://img.shields.io/badge/Java-lightgrey?style=flat-square&logo=Java)](https://github.com/search?q=user%3Acodyduong+language%3Ajava&type=code)
 [![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)](https://github.com/search?q=user%3Acodyduong+language%3Apython&type=code)
+![NumPy](https://img.shields.io/badge/NumPy-lightgrey?style=flat-square&logo=NumPy)
 [![Jekyll](https://img.shields.io/badge/Jekyll-lightgrey?style=flat-square&logo=Jekyll)](https://github.com/codyduong/artNcode)
 [![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript)](https://github.com/search?q=user%3Acodyduong+language%3Ajavascript&type=code)
 [![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=flat-square&logo=TypeScript)](https://github.com/search?q=user%3Acodyduong+language%3Atypescript&type=Code)
