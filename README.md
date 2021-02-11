@@ -29,12 +29,12 @@ This is where I am building and making things. Enjoy your stay.
 ![GDScript](https://img.shields.io/badge/GDScript-lightgrey?style=flat-square&logo=Godot%20Engine)
 ![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=Processing)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
 ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
-
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-lightgrey?style=flat-square&logo=sass)
