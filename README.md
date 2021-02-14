@@ -40,6 +40,4 @@ This is where I am building and making things. Enjoy your stay.
 ![Sass](https://img.shields.io/badge/Sass-lightgrey?style=flat-square&logo=sass)
 
 https://michaelcurrin.github.io/badge-generator/#/generic
-style=flat-square&
-
 -->
