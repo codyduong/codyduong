@@ -13,12 +13,12 @@ This is where I am building and making things. Enjoy your stay.
 [![Jekyll](https://img.shields.io/badge/Jekyll-lightgrey?style=flat-square&logo=Jekyll)](https://github.com/codyduong/artNcode)
 [![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript)](https://github.com/search?q=user%3Acodyduong+language%3Ajavascript&type=code)
 [![TypeScript](https://img.shields.io/badge/TypeScript-lightgrey?style=flat-square&logo=TypeScript)](https://github.com/search?q=user%3Acodyduong+language%3Atypescript&type=Code)
-
-![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
 ![Node](https://img.shields.io/badge/Node.js-lightgrey?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-lightgrey?style=flat-square&logo=React)
 ![Three.js](https://img.shields.io/badge/Three.js-lightgrey?style=flat-square&logo=Three.js)
 ![react-three-fiber](https://img.shields.io/badge/react--three--fiber-lightgrey?style=flat-square&logo=Three.js)
+
+![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
