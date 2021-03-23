@@ -28,6 +28,7 @@ This is where I am building and making things. Enjoy your stay.
 ![Kotlin](https://img.shields.io/badge/Kotlin-lightgrey?style=flat-square&logo=Kotlin)
 ![GDScript](https://img.shields.io/badge/GDScript-lightgrey?style=flat-square&logo=Godot%20Engine)
 ![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=Processing)
+![Cython](https://img.shields.io/badge/Cython-lightgrey?style=flat-square&logo=Cython)
 
 
 
