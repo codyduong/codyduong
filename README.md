@@ -19,6 +19,8 @@ This is where I am building and making things. Enjoy your stay.
 ![react-three-fiber](https://img.shields.io/badge/react--three--fiber-lightgrey?style=flat-square&logo=Three.js)
 
 ![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
+
+![On Hold](https://img.shields.io/badge/On_Hold-red?style=flat-square&)
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
