@@ -17,9 +17,10 @@ This is where I am building and making things. Enjoy your stay.
 ![React](https://img.shields.io/badge/React-lightgrey?style=flat-square&logo=React)
 ![Three.js](https://img.shields.io/badge/Three.js-lightgrey?style=flat-square&logo=Three.js)
 ![react-three-fiber](https://img.shields.io/badge/react--three--fiber-lightgrey?style=flat-square&logo=Three.js)
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
 
 ![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
+![php](https://img.shields.io/badge/php-lightgrey?style=flat-square&logo=php)
 
 ![On Hold](https://img.shields.io/badge/On_Hold-red?style=flat-square&)
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
@@ -30,7 +31,7 @@ This is where I am building and making things. Enjoy your stay.
 ![C++](https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=C%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-lightgrey?style=flat-square&logo=Kotlin)
 ![GDScript](https://img.shields.io/badge/GDScript-lightgrey?style=flat-square&logo=Godot%20Engine)
-![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=Processing)
+![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=ProcessingFoundation)
 ![Numba](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Numba)
 ![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
 
