@@ -27,13 +27,13 @@ This is where I am building and making things. Enjoy your stay.
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
 ![rust](https://img.shields.io/badge/rust-lightgrey?style=flat-square&logo=rust)
+![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
 ![MongoDB](https://img.shields.io/badge/MongoDB-lightgrey?style=flat-square&logo=MongoDB)
 ![C++](https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=C%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-lightgrey?style=flat-square&logo=Kotlin)
 ![GDScript](https://img.shields.io/badge/GDScript-lightgrey?style=flat-square&logo=Godot%20Engine)
 ![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=ProcessingFoundation)
 ![Numba](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Numba)
-![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
 
 
 
