@@ -18,15 +18,15 @@ This is where I am building and making things. Enjoy your stay.
 ![Three.js](https://img.shields.io/badge/Three.js-lightgrey?style=flat-square&logo=Three.js)
 ![react-three-fiber](https://img.shields.io/badge/react--three--fiber-lightgrey?style=flat-square&logo=Three.js)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?style=flat-square&logo=MySQL)
+![php](https://img.shields.io/badge/php-lightgrey?style=flat-square&logo=php)
 
 ![Learning](https://img.shields.io/badge/Learning-important?style=flat-square&)
-![php](https://img.shields.io/badge/php-lightgrey?style=flat-square&logo=php)
+![rust](https://img.shields.io/badge/rust-lightgrey?style=flat-square&logo=rust)
 
 ![On Hold](https://img.shields.io/badge/On_Hold-red?style=flat-square&)
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
-![rust](https://img.shields.io/badge/rust-lightgrey?style=flat-square&logo=rust)
 ![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
 ![MongoDB](https://img.shields.io/badge/MongoDB-lightgrey?style=flat-square&logo=MongoDB)
 ![C++](https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=C%2B%2B)
