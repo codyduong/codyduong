@@ -27,6 +27,9 @@ This is where I am building and making things. Enjoy your stay.
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
+![Electron](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Electron)
+![Svelte/SvelteKit](https://img.shields.io/badge/Svelte-lightgrey?style=flat-square&logo=Svelte)
+![C#](https://img.shields.io/badge/C%20%23-lightgrey?style=flat-square&logo=C%20Sharp)
 ![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
 ![MongoDB](https://img.shields.io/badge/MongoDB-lightgrey?style=flat-square&logo=MongoDB)
 ![C++](https://img.shields.io/badge/C++-lightgrey?style=flat-square&logo=C%2B%2B)
@@ -35,8 +38,11 @@ This is where I am building and making things. Enjoy your stay.
 ![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=ProcessingFoundation)
 ![Numba](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Numba)
 
-
-
+<span>
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&show_icons=true&line_height=28&theme=github_dark" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
+</span>
 
 <!--
 ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
