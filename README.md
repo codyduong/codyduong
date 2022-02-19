@@ -39,7 +39,7 @@ This is where I am building and making things. Enjoy your stay.
 ![Numba](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Numba)
 
 <span>
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&show_icons=true&line_height=28&theme=github_dark" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&line_height=28&theme=github_dark" />
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact&theme=github_dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
 </span>
