@@ -38,11 +38,11 @@ This is where I am building and making things. Enjoy your stay.
 ![Processing](https://img.shields.io/badge/Processing-lightgrey?style=flat-square&logo=ProcessingFoundation)
 ![Numba](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Numba)
 
-<span>
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&line_height=28&theme=github_dark" />
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
-</span>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact&card_width=445&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
+</p>
 
 <!--
 ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5)
