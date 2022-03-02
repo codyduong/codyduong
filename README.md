@@ -1,5 +1,5 @@
 
-# Cody Duong | [Website](https://codyduong.github.io/artNcode/home/)
+# Cody Duong
 ### Self-taught developer learning whatever technologies I decide is cool
 This is where I am building and making things. Enjoy your stay.
 
