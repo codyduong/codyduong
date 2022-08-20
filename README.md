@@ -41,7 +41,7 @@ This is where I am building and making things. Enjoy your stay.
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=10&layout=compact&card_width=445&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
+  <!╌ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codyduong&theme=github_dark" />
 </p>
 
 <!--
