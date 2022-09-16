@@ -27,7 +27,7 @@ This is where I am building and making things. Enjoy your stay.
 [![C](https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C)](https://github.com/search?q=user%3Acodyduong+language%3AC&type=Code)
 
 ![Wishlist](https://img.shields.io/badge/Wishlist-grey?style=flat-square)
-![Electron](https://img.shields.io/badge/Numba-lightgrey?style=flat-square&logo=Electron)
+![Electron](https://img.shields.io/badge/Electron-lightgrey?style=flat-square&logo=Electron)
 ![Svelte/SvelteKit](https://img.shields.io/badge/Svelte-lightgrey?style=flat-square&logo=Svelte)
 ![C#](https://img.shields.io/badge/C%20%23-lightgrey?style=flat-square&logo=C%20Sharp)
 ![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat-square&logo=Deno)
