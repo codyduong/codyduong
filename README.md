@@ -1,8 +1,17 @@
 
-# Cody Duong
-### Self-taught developer learning whatever technologies I decide is cool
+## Cody Duong
+[`website (WIP)`](https://codyduong.dev/ 'Personal Website (Work in Progress)')
+
+### ***Self-taught developer learning whatever technologies I decide is cool***
+
 This is where I am building and making things. Enjoy your stay.
 
+[`/\.[jt]sx?$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3AJavascript+language%3ATypescript&type=Repositories 'Javascript and Typescript Repositories')
+[`/\.py$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3APython 'Python Repositories')
+[`/\.(?![jt]sx?)(?!py).*$/`](https://github.com/search?p=1&q=user%3Acodyduong+-language%3AJavascript+-language%3ATypescript+-language%3APython&type=Repositories 'All Other Repositories')
+
+
+<!--
 ### Languages / Technologies
 ![Learned](https://img.shields.io/badge/Learned-green?style=flat-square&)
 [![LUA](https://img.shields.io/badge/LUA-lightgrey?style=flat-square&logo=lua)](https://github.com/search?q=user%3Acodyduong+language%3Alua&type=code)
