@@ -1,15 +1,46 @@
+# Cody Duong
+[`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
+|
+[`linkedin 💼`](https://www.linkedin.com/in/cody-duong/ 'My LinkedIn')
+|
+[`mailbox 📬`](mailto:cody.qd@gmail.com 'Send an email')
+|
+[`stackoverflow 🧑‍💻`](https://stackoverflow.com/users/17954209/cody-duong)
 
-## Cody Duong
-[`website (WIP)`](https://codyduong.dev/ 'Personal Website (Work in Progress)')
-
-### ***Self-taught developer learning whatever technologies I decide is cool***
 
 This is where I am building and making things. Enjoy your stay.
 
-[`/\.[jt]sx?$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3AJavascript+language%3ATypescript&type=Repositories 'Javascript and Typescript Repositories')
-[`/\.py$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3APython 'Python Repositories')
-[`/\.(?![jt]sx?)(?!py).*$/`](https://github.com/search?p=1&q=user%3Acodyduong+-language%3AJavascript+-language%3ATypescript+-language%3APython&type=Repositories 'All Other Repositories')
+_________________
 
+🧑‍💻
+- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `FAL 2023, SUM 2023`
+- `Software Engineering Intern` [`@ AGI Digital/AGI SureTrack`](https://questanalytics.com/) `SUM 2021, SUM 2022, FAL 2022, SPR 2023`
+
+🎓
+- `Human-Computer Interaction (PhD)` [`@ TBD`]() `TBD`
+- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2025`
+- `Student` [`@ Github All In`](https://allinopensource.org/) `SPR 2023`
+
+_________________
+
+[`/\.[jt]sx?$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3AJavascript+language%3ATypescript&type=Repositories 'Javascript and Typescript Repositories')
+
+[`/\.ps(md)?1$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3APowerShell&type=Repositories 'PowerShell Repositories')
+
+[`/\.py$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3APython&type=Repositories 'Python Repositories')
+
+[`/\.(?![jt]sx?)(?!ps(md)?1)(?!py).*$/`](https://github.com/search?p=1&q=user%3Acodyduong+-language%3AJavascript+-language%3ATypescript+-language%3APython+-language%3APowerShell&type=Repositories 'All Other Repositories')
+
+_________________
+
+<p align="center">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=14&layout=compact&card_width=460&theme=transparent" />
+</p>
+
+<!--
+https://github.com/DavidWells/advanced-markdown/blob/master/README.md
+-->
 
 <!--
 ### Languages / Technologies
