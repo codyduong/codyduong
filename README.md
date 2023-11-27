@@ -13,7 +13,7 @@ This is where I am building and making things. Enjoy your stay.
 _________________
 
 🧑‍💻
-- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `FAL 2023, SUM 2023`
+- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023, FAL 2023`
 - `Software Engineering Intern` [`@ AGI Digital/AGI SureTrack`](https://questanalytics.com/) `SUM 2021, SUM 2022, FAL 2022, SPR 2023`
 
 🎓
