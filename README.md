@@ -1,4 +1,9 @@
-# Cody Duong
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+Hi there 👋
+
+I'm a OSS Software Engineer based out of Kansas. I develop for fun and productivity.
+
 [`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
 |
 [`linkedin 💼`](https://www.linkedin.com/in/cody-duong/ 'My LinkedIn')
@@ -7,22 +12,31 @@
 |
 [`stackoverflow 🧑‍💻`](https://stackoverflow.com/users/17954209/cody-duong)
 
-
-This is where I am building and making things. Enjoy your stay.
-
 _________________
 
-🧑‍💻
-- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023, FAL 2023, SPR 2024, SUM 2024`
-- `Software Engineering Intern` [`@ AGI Digital/AGI SureTrack`](https://www.aggrowth.com/en-us/farm-brands-overview/Bin-Monitoring/binmanager) `SUM 2021, SUM 2022, FAL 2022, SPR 2023`
+🔧 Projects
+- `owner` [`🚧 codyduong/hitokage 🚧`](https://github.com/codyduong/hitokage)
+- `owner` [`codyduong/powershell-alias-tips`](https://github.com/codyduong/powershell-alias-tips)
+- `owner` [`codyduong/powershell-git-aliases-plus`](https://github.com/codyduong/powershell-git-aliases-plus)
+- `owner` [`codyduong/ytmusicapiJS (archived)`](https://github.com/codyduong/ytmusicapiJS)
+- `contributor` [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=author%3Acodyduong) 
 
-🎓
+🧑‍💻 Work
+- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - SUM 2024`
+- `Software Engineering Intern` [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021` `SUM 2022 - SPR 2023`
+
+🎓 Education
+<!--
 - `Human-Computer Interaction (PhD)` [`@ TBD`]() `TBD`
-- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `SPR 2025`
+- `MBA` [`@ TBD`]() `TBD`
+-->
+- `Computer Science (BSc)` [`@ University of Kansas`](https://ku.edu/) `FAL 2021 - SPR 2025`
 - `Student` [`@ Github All In`](https://allinopensource.org/) `SPR 2023`
 
+
 _________________
 
+<!--
 [`/\.[jt]sx?$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3AJavascript+language%3ATypescript&type=Repositories 'Javascript and Typescript Repositories')
 
 [`/\.ps(md)?1$/`](https://github.com/search?p=1&q=user%3Acodyduong+language%3APowerShell&type=Repositories 'PowerShell Repositories')
@@ -32,6 +46,7 @@ _________________
 [`/\.(?![jt]sx?)(?!ps(md)?1)(?!py).*$/`](https://github.com/search?p=1&q=user%3Acodyduong+-language%3AJavascript+-language%3ATypescript+-language%3APython+-language%3APowerShell&type=Repositories 'All Other Repositories')
 
 _________________
+-->
 
 <p align="center">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"" />
