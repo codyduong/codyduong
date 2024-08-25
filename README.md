@@ -4,8 +4,10 @@ Hi there 👋
 
 I'm a OSS Software Engineer based out of Kansas. I develop for fun and productivity.
 
+<!--
 [`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
 |
+-->
 [`linkedin 💼`](https://www.linkedin.com/in/cody-duong/ 'My LinkedIn')
 |
 [`mailbox 📬`](mailto:cody.qd@gmail.com 'Send an email')
@@ -22,7 +24,7 @@ _________________
 - `contributor` [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=author%3Acodyduong) 
 
 🧑‍💻 Work
-- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - SUM 2024`
+- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - FAL 2024`
 - `Software Engineering Intern` [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021` `SUM 2022 - SPR 2023`
 
 🎓 Education
