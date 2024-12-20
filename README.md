@@ -52,7 +52,7 @@ _________________
 
 <p align="center">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"" />
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped&hide=java" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped,EECS-665&hide=java" />
 </p>
 
 <!--
