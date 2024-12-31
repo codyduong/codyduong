@@ -24,7 +24,7 @@ _________________
 - `contributor` [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=author%3Acodyduong) 
 
 🧑‍💻 Work
-- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - FAL 2024`
+- `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - WIN 2024`
 - `Software Engineering Intern` [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021` `SUM 2022 - SPR 2023`
 
 🎓 Education
