@@ -21,7 +21,7 @@ _________________
 - `owner` [`codyduong/powershell-alias-tips`](https://github.com/codyduong/powershell-alias-tips)
 - `owner` [`codyduong/powershell-git-aliases-plus`](https://github.com/codyduong/powershell-git-aliases-plus)
 - `owner` [`codyduong/ytmusicapiJS (archived)`](https://github.com/codyduong/ytmusicapiJS)
-- `contributor` [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=author%3Acodyduong) 
+- `contributor` [`DefinitelyTyped/DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=sort%3Aupdated-desc%20commenter%3Acodyduong) 
 
 🧑‍💻 Work
 - `Software Engineering Intern` [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - WIN 2024`
