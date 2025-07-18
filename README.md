@@ -57,8 +57,9 @@ _________________
 <br>
 
 ## 🧑‍💻 Work
-- Software Engineering Intern [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - WIN 2024`
-- Software Engineering Intern [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021` `SUM 2022 - SPR 2023`
+- React Native Analyst [`@ Caesars Entertainment`](https://www.caesars.com/) `SUM 2024 - PRESENT`
+- Software Engineer Intern [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - WIN 2024`
+- Software Engineer Intern [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021` `SUM 2022 - SPR 2023`
 
 <br>
 
