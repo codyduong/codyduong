@@ -32,7 +32,7 @@ _________________
     <p><code>Install-Module alias-tips</code>
   </li>
   <li>
-    <a href="codyduong/powershell-git-aliases-plus"><b>powershell-git-aliases-plus</b></a>
+    <a href="https://github.com/codyduong/powershell-git-aliases-plus"><b>powershell-git-aliases-plus</b></a>
     <div>:octocat: Oh My Zsh's Git aliases for PowerShell</div>
     <p><code>Install-Module git-aliases-plus</code>
   </li>
