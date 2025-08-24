@@ -2,10 +2,9 @@
 
 I'm a OSS Software Engineer based out of Kansas. I develop for fun and productivity.
 
-<!--
-[`website (under renovation) 🏗️`](https://codyduong.dev/ 'My Personal Website')
+
+[`website 🏗️`](https://codyduong.dev/ 'My Personal Website')
 |
--->
 [`linkedin 💼`](https://www.linkedin.com/in/cody-duong/ 'My LinkedIn')
 |
 [`mailbox 📬`](mailto:cody.qd@gmail.com 'Send an email')
