@@ -71,7 +71,7 @@ _________________
 - Student [`@ Github All In`](https://allinopensource.org/) `SPR 2023`
 
 <br>
-
+<!--
 _________________
 
 <!--
@@ -84,9 +84,10 @@ _________________
 [`/\.(?![jt]sx?)(?!ps(md)?1)(?!py).*$/`](https://github.com/search?p=1&q=user%3Acodyduong+-language%3AJavascript+-language%3ATypescript+-language%3APython+-language%3APowerShell&type=Repositories 'All Other Repositories')
 
 _________________
--->
+
 
 <p align="center">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=codyduong&count_private=true&theme=transparent&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"" />
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyduong&langs_count=14&layout=compact&card_width=460&theme=transparent&exclude_repo=EECS-678,EECS-678-quash,DefinitelyTyped,EECS-665&hide=java,jupyter%20notebook" />
 </p>
+-->
