@@ -48,7 +48,7 @@ _________________
 
 <ul>
   <li>
-    <a href=https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=sort%3Aupdated-desc%20commenter%3Acodyduong>DefinitelyTyped/@codyduong</a>
+    <a href=https://github.com/DefinitelyTyped/DefinitelyTyped/issues?q=sort%3Aupdated-desc%20commenter%3Acodyduong>DefinitelyTyped</a>
     <div>The repository for high quality TypeScript type definitions</div>
   </li>
 </ul>
