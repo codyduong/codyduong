@@ -56,7 +56,7 @@ _________________
 <br>
 
 ## 🧑‍💻 Work
-- Principal Architect `@StrutQ` `SPR 2026 - PRESENT`
+- Principal Architect `@ StrutQ` `SPR 2026 - PRESENT`
 - React Native Analyst [`@ Caesars Entertainment`](https://www.caesars.com/) `SUM 2025 - PRESENT`
 - Full Stack Engineer [`@ Quest Analytics`](https://questanalytics.com/) `SUM 2023 - WIN 2024`
 - Engineer [`@ AGI Digital`](https://web.archive.org/web/20210618182354/https://www.agisuretrack.com/) `SUM 2021 - SPR 2023`
